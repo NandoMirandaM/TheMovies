@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheMovies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="more_popular">More popular</string>
+    <string name="now_playing">Now playing</string>
+</resources>
